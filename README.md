@@ -81,3 +81,6 @@ To change the password while logged in, simply tap on “Profile” and then “
 
 19.Doctor locator
 ![Image text](https://github.com/lookupzn/SFSTM10/blob/master/sfs/18.png)
+
+
+
