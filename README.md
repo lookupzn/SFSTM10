@@ -13,3 +13,4 @@ Installation:
 Usage:
 1.The user must have access to wifi as well as have their location turned on in order to access every feature of this app. 
 2.After tapping on the icon the app will open the login page provides buttons for two different login panels, one for patients and one for doctors. 
+![Image text](https://github.com/lookupzn/SFSTM10/blob/master/sfs/1.png)
